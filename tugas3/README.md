@@ -45,3 +45,9 @@ _login Method:Memeriksa validitas username dan password. Jika sesuai, menyimpan 
 _showErrorDialog Method:Menampilkan dialog jika login gagal, memberitahukan pengguna tentang kesalahan.
 build Method:Mengatur tampilan halaman login menggunakan Scaffold dan Stack. Termasuk menambahkan form login yang berisi ikon, kolom input, dan tombol login.
 _buildTextField Method:Membuat kolom input untuk username dan password dengan desain yang konsisten.
+
+![login](login.png)
+![halamanutama](main_screen.png)
+![profile](profile.png)
+![chat](chat.png)
+![setting](settings.png)
